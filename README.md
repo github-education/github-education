@@ -14,7 +14,7 @@ GitHub Education helps students, teachers and schools access the best real-world
 - **Campus Advisors**: Learn how to teach with GitHub. With this online training, you’ll make commits with confidence and understand what makes Git work under the hood.
 - **GitHub Classroom**: GitHub Classroom is a teacher-facing tool that integrates the GitHub flow into your course.
 - **Teacher Toolbox**: The best tools to teach, free for teachers.
-- **Swag for teachers**: After saying hi on Teacher Global Campus Discussions, stock up on Git cheat sheets, Markdown guides, and of course, stickers.
+- **Swag for teachers**: After saying hi on Global Campus: Teacher, stock up on Git cheat sheets, Markdown guides, and of course, stickers.
 
 
 ### 🏫 For schools
@@ -23,3 +23,6 @@ GitHub Education helps students, teachers and schools access the best real-world
 
 ## Get the benefits
 Find out more about your benefits from GitHub Education on our [website](https://education.github.com/).
+
+## Need help?
+Reach out using our [support](https://support.github.com/?tags=dotcom-direct) website!
